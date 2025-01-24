@@ -85,7 +85,8 @@ This project explores advanced neural network techniques, addressing five key pr
 
 ## Requirements
 
-- **Python**: 
+- **Python**:
+ 
   - 3.8 or later
 
 - **Required libraries**:
